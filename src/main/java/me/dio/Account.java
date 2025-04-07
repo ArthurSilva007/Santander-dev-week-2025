@@ -38,7 +38,7 @@ public class Account {
         this.balance = balance;
     }
 
-    public BigDecimal getLimit() {
+    public BigDecimal getNumber() {
         return limit;
     }
 
