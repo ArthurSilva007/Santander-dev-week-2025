@@ -1,1 +1,1 @@
-web: java -jar
+web: java -jar Santander-dev-week-2025-0.0.1-SNAPSHOT.jar
